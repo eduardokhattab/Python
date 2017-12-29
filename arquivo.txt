@@ -1,0 +1,5 @@
+machinesaprende python
+
+\lololoTres aspas simples
+significam que o texto ocupa mais de uma
+linha

@@ -1,5 +1,3 @@
-import sys 
-sys.path.insert(0, 'modules/modulo')
 import modulo
 
 print(modulo.area_quadrado(5))
